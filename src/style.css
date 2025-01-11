@@ -52,26 +52,25 @@ main {
   font-size: 16px;
   line-height: 24px;
   color: rgba(0, 0, 0, 0.6);
-  margin-left: 10px;
 }
 .weather-app-details strong {
   color: rgb(229, 84, 84);
 }
 .weather-app-temperature-container {
   display: flex;
-  margin-right: 50px;
 }
 .weather-app-temperature-value {
-  font-size: 60px;
-  margin-left: 10px;
+  font-size: 88px;
+  line-height: 88px;
+  font-weight: normal;
 }
 .weather-app-icon {
-  font-size: 30px;
-  margin-top: 15px;
+  width: 88px;
+  height: 88px;
 }
 .weather-app-temperature-unit {
-  font-size: 30px;
-  margin-top: 15px;
+  margin-top: 6px;
+  font-size: 28px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
